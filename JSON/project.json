@@ -1,0 +1,334 @@
+[
+    {
+        "filter_id":1,
+        "products":[
+            {
+                "product_id":1,
+                "product_name":"Pizza",
+                "img_src":"Images/F1.webp",
+                "price":200
+            },
+           
+            {
+                "product_id":2,
+                "product_name":"Idly",
+                "img_src":"Images/F3.jpg",
+                "price":50
+            },
+            {
+                "product_id":3,
+                "product_name":"Noodles",
+                "img_src":"Images/F4.webp",
+                "price":120     
+            },
+            {
+                "product_id":4,
+                "product_name":"Paneer Tikka",
+                "img_src":"Images/F5.webp",
+                "price":200     
+            },
+            {
+                "product_id":5,
+                "product_name":"Sanwich",
+                "img_src":"Images/F6.avif",
+                "price":80       
+            },
+            {
+                "product_id":6,
+                "product_name":"Paneer Butter Masala",
+                "img_src":"Images/F7.jpg",
+                "price":130       
+            },
+            {
+                "product_id":7,
+                "product_name":"Butter Naan",
+                "img_src":"Images/F8.jpg",
+                "price":40       
+            },
+            {
+                "product_id":8,
+                "product_name":"Meals",
+                "img_src":"Images/F9.jpg",
+                "price":170      
+            },
+            {
+                "product_id":9,
+                "product_name":"Ice Cream",
+                "img_src":"Images/F10.jpg",
+                "price":70      
+            }]
+    },
+    {
+        "filter_id":2,
+        "products":[
+                {
+                "product_id":11,
+                "product_name":"SAMSUNG Refridgerator",
+                "img_src":"Images/H1.webp",
+                "price":80000       
+            },
+           
+            {
+                "product_id":13,
+                "product_name":"Mixer Grinder",
+                "img_src":"Images/H3.webp",
+                "price":6000       
+            },
+            {
+                "product_id":14,
+                "product_name":"Office Chair",
+                "img_src":"Images/H4.jpg",
+                "price":5000      
+            },
+            {
+                "product_id":15,
+                "product_name":"SAMSUNG Washing Machine",
+                "img_src":"Images/H5.avif",
+                "price":40000      
+            },
+            {
+                "product_id":16,
+                "product_name":"LG Air Conditioner Dual Inverter",
+                "img_src":"Images/H6.avif",
+                "price":60000      
+            },
+            {
+                "product_id":17,
+                "product_name":"Vessel Stand steel",
+                "img_src":"Images/H7.webp",
+                "price":1000
+            },
+            {
+                "product_id":18,
+                "product_name":"Cup Saucer",
+                "img_src":"Images/H8.webp",
+                "price":150       
+            },
+            {
+                "product_id":19,
+                "product_name":"Wooden Dining Table with four Chair",
+                "img_src":"Images/H9.jpg",
+                "price":25000      
+            },
+            {
+                "product_id":20,
+                "product_name":"Sofa",
+                "img_src":"Images/H10.webp",
+                "price":20000 
+            }]
+    },
+    {
+        "filter_id":3,
+        "products":[
+            {
+                "product_id":21,
+                "product_name":"The Bright Book of Life",
+                "img_src":"Images/I1.jpg",
+                "price":400       
+            },
+            {
+                "product_id":53,
+                "product_name":"Pride and PreJudice",
+                "img_src":"Images/I2.jpg",
+                "price":700
+            },
+            {
+                "product_id":22,
+                "product_name":"The Great Gatsby",
+                "img_src":"Images/I3.jpg",
+                "price":550       
+            },
+            {
+                "product_id":23,
+                "product_name":"The Book Thief",
+                "img_src":"Images/I4.jpg",
+                "price":480       
+            },
+            {
+                "product_id":24,
+                "product_name":"The Game of Thrones",
+                "img_src":"Images/I5.jpg",
+                "price":600       
+            },
+            {
+                "product_id":25,
+                "product_name":"Beyond Order",
+                "img_src":"Images/I6.jpg",
+                "price":350       
+            }]
+    },
+    {
+        "filter_id":4,
+        "products":[
+            {
+                "product_id":26,
+                "product_name":"Baby girls full gown",
+                "img_src":"Images/k1.webp",
+                "price":1200       
+            },
+            {
+                "product_id":27,
+                "product_name":"Pinafore Frock",
+                "img_src":"Images/k2.webp",
+                "price":800      
+            },
+            {
+                "product_id":28,
+                "product_name":"Long-sleeved top and black skirt",
+                "img_src":"Images/k3.jpg",
+                "price":520       
+            },
+            {
+                "product_id":29,
+                "product_name":"Boys Jacket Dress",
+                "img_src":"Images/k4.webp",
+                "price":760      
+            },
+            {
+                "product_id":30,
+                "product_name":"Shirt and Jeans",
+                "img_src":"Images/k5.webp",
+                "price":990       
+            },
+            {
+                "product_id":31,
+                "product_name":"Plaid button-down shirt and shorts",
+                "img_src":"Images/k6.webp",
+                "price":840      
+            },
+            {
+                "product_id":32,
+                "product_name":"Boy's Baba Suit",
+                "img_src":"Images/k7.jpg",
+                "price":1430     
+            }]
+    },
+    {
+        "filter_id":5,
+        "products":[
+            {
+                "product_id":33,
+                "product_name":"Slim-fit light fade stretchable jeans",
+                "img_src":"Images/M1.jpg",
+                "price":930       
+            },
+            {
+                "product_id":34,
+                "product_name":"Plain Olive Green Round Neck T-Shirt",
+                "img_src":"Images/M2.webp",
+                "price":799      
+            },
+            {
+                "product_id":35,
+                "product_name":"MC Neo Printed Color Shirt",
+                "img_src":"Images/M3.webp",
+                "price":699       
+            },
+            {
+                "product_id":36,
+                "product_name":"Hooded Sweatshirt",
+                "img_src":"Images/M4.webp",
+                "price":1300      
+            },
+            {
+                "product_id":37,
+                "product_name":"MANCREW Men's Solid Teal Pants",
+                "img_src":"Images/M5.jpg",
+                "price":899      
+            },
+            {
+                "product_id":38,
+                "product_name":"Super Baggy Fit Cargo Jeans",
+                "img_src":"Images/M6.webp",
+                "price":1299       
+            },
+            {
+                "product_id":39,
+                "product_name":"Long-sleeved shirt with front pockets",
+                "img_src":"Images/M7.jpg",
+                "price":1500      
+            },
+            {
+                "product_id":40,
+                "product_name":"Partywear Slim Fit Shirt",
+                "img_src":"Images/M8.jpg",
+                "price":1999       
+            },
+            {
+                "product_id":41,
+                "product_name":"Track Pant",
+                "img_src":"Images/M9.jpg",
+                "price":760      
+            },
+            {
+                "product_id":42,
+                "product_name":"Cargo Joggers",
+                "img_src":"Images/M10.jpg",
+                "price":850      
+            }]
+    },
+    {
+        "filter_id":6,
+        "products":[
+            {
+                "product_id":43,
+                "product_name":"Saree",
+                "img_src":"Images/W1.webp",
+                "price":999      
+            },
+            {
+                "product_id":44,
+                "product_name":"Anarkali Gown",
+                "img_src":"Images/W2.avif",
+                "price":1899     
+            },
+            {
+                "product_id":45,
+                "product_name":"Ghagra Choli",
+                "img_src":"Images/W3.webp",
+                "price":3999      
+            },
+            {
+                "product_id":46,
+                "product_name":"Slim-fit T-Shirt",
+                "img_src":"Images/W4.webp",
+                "price":850       
+            },
+            {
+                "product_id":47,
+                "product_name":"Bohemian Maxi Skirt",
+                "img_src":"Images/W5.jpg",
+                "price":499       
+            },
+            {
+                "product_id":48,
+                "product_name":"Riped Jeans",
+                "img_src":"Images/W6.jpg",
+                "price":930      
+            },
+            {
+                "product_id":49,
+                "product_name":"Tiered Fit & Flare Dress",
+                "img_src":"Images/W7.avif",
+                "price":560
+            },
+            {
+                "product_id":50,
+                "product_name":"Burgundy Gown with Cape",
+                "img_src":"Images/W8.webp",
+                "price":3500       
+            },
+            {
+                "product_id":51,
+                "product_name":"Anarkali Gown",
+                "img_src":"Images/W9.jpg",
+                "price":2400       
+            },
+            {
+                "product_id":52,
+                "product_name":"Saree",
+                "img_src":"Images/W10.avif",
+                "price":850      
+            }]
+    }
+]
